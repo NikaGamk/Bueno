@@ -1,2 +1,3 @@
 # Bueno
 Bueno
+init comm
